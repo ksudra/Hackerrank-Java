@@ -33,7 +33,6 @@ class Result {
         System.out.println(n /= arr.size());
         System.out.println(z /= arr.size());
     }
-
 }
 
 public class Solution {
